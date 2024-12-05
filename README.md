@@ -15,7 +15,7 @@ This repository includes:
 - Tidied* scripts for processing BPOD output
 - Some example scripts for analysis of tracking and histology data 
 
-* These scripts should be useful and readable but are not fully polished.
+(*)These scripts should be useful and readable but are not fully polished.
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ Ensure you have the following software installed:
 - Jupyter notebook
 - Necessary Python libraries: this pipeline worked with the environment I have listed in requirements.txt (though some of these packages may be redundant)  
 
-### Data Pipeline
+## Main data pipeline
 
 **1_process_bpod_output**
 Notebook script which takes the matlab output from running the behaviour and produces more readable processed data 

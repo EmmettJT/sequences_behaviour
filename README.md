@@ -11,9 +11,9 @@ See our publication for more details: [Replay of Procedural Experience is Indepe
 ## Overview
 
 This repository includes:
-- A version of the task in BPOD file format (Sequence_Automated)
-- Tidied* scripts for processing BPOD output
-- Some example scripts for analysis of tracking and histology data 
+- A version of the task in BPOD file format (matlab/Sequence_Automated)
+- Tidied* python notebook scripts for processing BPOD output
+- Some example notebook scripts for analysis of tracking and histology data 
 
 (*)These scripts should be useful and readable but are not fully polished.
 

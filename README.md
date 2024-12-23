@@ -15,7 +15,7 @@ This repository includes:
 - Tidied* python notebook scripts for processing BPOD output
 - Some example notebook scripts for analysis of tracking and histology data 
 
-(*)These scripts should be useful and readable but are not fully polished.
+(*)These scripts are from the early year of my phd so are a little rough. I havent refactored them  but I have been though and tidied them - so they should be useful and readable but are not fully polished...
 
 ## Getting Started
 

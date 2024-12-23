@@ -37,7 +37,9 @@ Ensure you have the following software installed:
 
 **3_analyse_across_sessions**
 
-- Same as step 2 but produces summary data across the sessions for each animal 
+- Same as step 2 but produces summary data across the sessions for each animal
+
+## Extended anlaysis scripts
 
 **AcrossAnimal_analysis**
 

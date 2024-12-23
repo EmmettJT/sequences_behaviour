@@ -39,7 +39,7 @@ Ensure you have the following software installed:
 
 - Same as step 2 but produces summary data across the sessions for each animal
 
-## Extended anlaysis scripts
+## Extended analysis scripts
 
 **AcrossAnimal_analysis**
 

@@ -1,5 +1,5 @@
 # sequences_behaviour
-scripts for running and post-hoc analysis of the 8 poke sequence behavioural task (behavioural and tracking data)
+scripts for running and post-hoc analysis of the 8 poke sequence behavioural task (behavioural and video tracking data)
 
 
 # Analysis of behavioural data for the Seqeuence task 

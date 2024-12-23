@@ -15,7 +15,7 @@ This repository includes:
 - Tidied* python notebook scripts for processing BPOD output
 - Some example notebook scripts for analysis of tracking and histology data 
 
-(*)These scripts should be useful and readable but are not fully polished.
+(*)These scripts are from the early years of my phd so are a little rough. I havent refactored them  but I have been though and tidied them - so they should be useful and readable but are not fully polished...
 
 ## Getting Started
 
@@ -28,10 +28,10 @@ Ensure you have the following software installed:
 ## Main data pipeline
 
 **1_process_bpod_output**
-Notebook script which takes the matlab output from running the behaviour and produces more readable processed data 
+Notebook script which takes the matlab output from running the behaviour and produces python readable processed data 
 
 **2_analyse_individual_sessions**
-Takes output files from process_bpod_output and returns analysis plots for each session
+Takes output files from process_bpod_output and returns analysis plots for each behavioural session
 
 **3_analyse_across_sessions**
 same as step 2 but produces summary data across the sessions for each animal 

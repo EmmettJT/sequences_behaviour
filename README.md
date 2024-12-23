@@ -43,7 +43,7 @@ Ensure you have the following software installed:
 
 **AcrossAnimal_analysis**
 
-- Takes the outputs from the first 3 steps and creates plots which compare the task abilities of multiple animals 
+- Takes the outputs from the first 3 steps and creates summary plots which compare the task abilities of multiple animals 
 
 **Tracking_analysis_examples**
 

@@ -28,19 +28,24 @@ Ensure you have the following software installed:
 ## Main data pipeline
 
 **1_process_bpod_output**
-Notebook script which takes the matlab output from running the behaviour and produces python readable processed data 
+
+ - Notebook script which takes the matlab output from running the behaviour and produces python readable processed data 
 
 **2_analyse_individual_sessions**
-Takes output files from process_bpod_output and returns analysis plots for each behavioural session
+
+- Takes output files from process_bpod_output and returns analysis plots for each behavioural session
 
 **3_analyse_across_sessions**
-same as step 2 but produces summary data across the sessions for each animal 
+
+- Same as step 2 but produces summary data across the sessions for each animal 
 
 **AcrossAnimal_analysis**
-takes the outputs from the first 3 steps and creates plots which compare the task abilities of multiple animals 
+
+- Takes the outputs from the first 3 steps and creates plots which compare the task abilities of multiple animals 
 
 **Tracking_analysis_examples**
-takes output from deeplabcut tracking: https://deeplabcut.github.io/DeepLabCut/README.html
-tracking points are the head of the mouse and each of the task relevant (5) behavioural ports. 
-This script loads some example data, and goes step by step through processing and analysis to determine how stereotyped port to port movements were during the task. 
-See figure1 and supliments in our paper for some examples of applications of this analysis : [Replay of Procedural Experience is Independent of the Hippocampus](https://www.biorxiv.org/content/10.1101/2024.06.05.597547v1.full.pdf).
+
+- Takes output from deeplabcut tracking: https://deeplabcut.github.io/DeepLabCut/README.html
+- Tracking points are the head of the mouse and each of the task relevant (5) behavioural ports. 
+- This script loads some example data, and goes step by step through processing and analysis to determine how stereotyped port to port movements were during the task. 
+- See figure1 and supliments in our paper for some examples of applications of this analysis : [Replay of Procedural Experience is Independent of the Hippocampus](https://www.biorxiv.org/content/10.1101/2024.06.05.597547v1.full.pdf).

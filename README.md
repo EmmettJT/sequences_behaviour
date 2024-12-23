@@ -28,10 +28,10 @@ Ensure you have the following software installed:
 ## Main data pipeline
 
 **1_process_bpod_output**
-Notebook script which takes the matlab output from running the behaviour and produces more readable processed data 
+Notebook script which takes the matlab output from running the behaviour and produces python readable processed data 
 
 **2_analyse_individual_sessions**
-Takes output files from process_bpod_output and returns analysis plots for each session
+Takes output files from process_bpod_output and returns analysis plots for each behavioural session
 
 **3_analyse_across_sessions**
 same as step 2 but produces summary data across the sessions for each animal 
